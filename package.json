@@ -1,0 +1,15 @@
+{
+  "name": "osmakbot",
+  "version": "1.0.0",
+  "description": "bot para Discord, by osmak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0smaK/discord-osmakbot/"
+  },
+  "author": "osmak",
+  "license": "ISC"
+}
